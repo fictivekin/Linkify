@@ -4,7 +4,7 @@ A JS library to convert URLs and @usernames into HTML links.
 
 ## Requirements
 
-* Underscore.js 1.4.4
+* Underscore.js 1.3.3
 * RequireJS 2.1.1
 
 ## Credits
